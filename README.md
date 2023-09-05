@@ -18,3 +18,12 @@ Pour l'instant, supprimer votre "compte" est tout aussi simple, un appel à l'AP
 - POST /account
 - DELETE /accound
 - POST / Message
+
+##### Privacy
+Ca ne sauvegarde que :
+- le token
+- l'email
+- le nombre de mail envoyés
+- la dernière fois qu'il s'est passé quelque chose pour votre compte
+
+Et oui c'est tout...
